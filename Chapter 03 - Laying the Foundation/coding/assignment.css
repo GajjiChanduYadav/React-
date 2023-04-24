@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.teeth{
+    width: 200px;
+
+}  
+
+#root{
+    width:100%;
+    background-color: aqua;
+    height: auto;
+    margin: 10px auto;
+    
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
